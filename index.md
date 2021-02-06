@@ -1,0 +1,3 @@
+# MyWorld Wiki
+
+Coming soon
