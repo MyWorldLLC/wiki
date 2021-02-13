@@ -27,7 +27,7 @@ url: "https://wiki.myworldvw.com" # the base hostname & protocol for your site, 
 twitter_username: MyWorldLLC
 github_username:  myworldllc
 
-logo: assets/favicon.ico
+logo: assets/images/favicon.ico
 footer_content: "Copyright &copy; 2021 MyWorld, LLC &amp; Contributors"
 
 # Build settings
