@@ -1,9 +1,10 @@
 ---
 title: myworld.events
 parent: Shared Modules
+grand_parent: Scripting
 nav_order: 2
 ---
-# Overview
+# myworld.events
 This module exposes the low-level API for scripts to manage event
 registrations. Scripts that should remain running after `main()`
 exits must register one or more event handlers, and will remain

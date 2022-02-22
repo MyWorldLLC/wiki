@@ -1,9 +1,10 @@
 ---
 title: myworld.system
 parent: Shared Modules
+grand_parent: Scripting
 nav_order: 1
 ---
-# Overview
+# myworld.system
 This module exposes basic system variables and functions.
 
 ## Variables
