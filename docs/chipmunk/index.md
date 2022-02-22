@@ -2,7 +2,9 @@
 title: Scripting
 has_children: true
 ---
-# Introducing Chipmunk: MyWorld's Scripting Language
+# Chipmunk: MyWorld's Scripting Language
+
+## Introducing Chipmunk
 Chipmunk is a fast, powerful, dynamically typed
 scripting language designed to be easy to learn
 and intuitive to use for both new programmers and
