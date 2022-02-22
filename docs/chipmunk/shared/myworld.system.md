@@ -17,3 +17,4 @@ This module exposes basic system variables and functions.
 * `exit()` - causes the script to immediately exit with a `null` exit value.
 * `exit(exitValue)` - causes the script to immediately exit with the given
   exit value.
+  * `exitValue` - Object
