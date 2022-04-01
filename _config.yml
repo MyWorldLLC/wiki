@@ -23,16 +23,16 @@ email: contact@myworldvw.com
 description: >- # this means to ignore newlines until "baseurl:"
   MyWorld Creators' Wiki
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wiki.myworldvw.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wiki.myworldvw.com"
 twitter_username: MyWorldLLC
 github_username:  myworldllc
 
 logo: assets/images/favicon.ico
-footer_content: "Copyright &copy; 2021 MyWorld, LLC &amp; Contributors"
+footer_content: "Copyright &copy; 2022 MyWorld, LLC &amp; Contributors"
 
 # Build settings
-#theme: minima
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+#remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
